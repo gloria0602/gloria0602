@@ -8,6 +8,6 @@ if(mot==listemot[i]){
     score=score+1;
 }
 }
-console.log("your score is :",score);
+console.log("your score issdgfeg :",score);
     
 
